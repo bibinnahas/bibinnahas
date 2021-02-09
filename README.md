@@ -6,5 +6,6 @@
 - Ask me about anything ! I might not know it, but I will sure find out!
 - From India :earth_asia:
 
+![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/programming.gif)
 *Learning is my stress buster!*
 
