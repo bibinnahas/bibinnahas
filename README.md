@@ -6,8 +6,8 @@
 - Ask me about anything ! I might not know it, but I will find out for sure!
 - From India :earth_asia:
 
-*Learning is my stress buster!*
+####*Learning is my stress buster!* :book:
 ![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/programming.gif)
 
-*Love to take up challenges!*
+####*And I just love taking up new challenges!* :heartbeat:
 ![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/challenges.gif)
