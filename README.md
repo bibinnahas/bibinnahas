@@ -10,4 +10,4 @@
 ![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/programming.gif)
 
 *Love to take up challenges!*
-![alt text](https://drive.google.com/file/d/1Pk3MbEEOahLHuqwiytbgf2lwj3R42YA5/view?usp=sharing)
+![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/challenges.gif)
