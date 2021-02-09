@@ -8,7 +8,7 @@
 
 #### Learning is my stress buster! :book:
 
-![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/programming.gif)
+![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/ezgif-1-568e4ec0d802.gif)
 
 #### And I just love taking up new challenges! :heartbeat:
 ![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/challenges.gif)
