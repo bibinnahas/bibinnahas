@@ -4,6 +4,7 @@
 - Know more about me [here](https://drive.google.com/file/d/1Ejsb6wsC5EN5DK2AAV1jUQ3j79-Co_qw/view?usp=sharing) 
 - Ask me about anything ! I might not know it, but I will find out for sure!
 - From India :earth_asia:
+- Avid Motor Bikes and Nature Lover
 - Certified Hadoop, Cloud and Kubernetes professional
 ####
 ![alt text](https://github.com/bibinnahas/bibinnahas/blob/main/badges.png)
