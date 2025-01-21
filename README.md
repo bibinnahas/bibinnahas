@@ -1,7 +1,7 @@
 ### Hey there! :wave:
 
 - 13+ years in Platform Engineering, Data Engineering & Analytics
-- Know more about me [here]([https://drive.google.com/file/d/1Ejsb6wsC5EN5DK2AAV1jUQ3j79-Co_qw/view?usp=sharing](https://drive.google.com/file/d/1wA9lmnZJOVkD07eH1Sss-W8DB3B4H-zt/view?usp=drive_link)) 
+- Know more about me [here](https://drive.google.com/file/d/1wA9lmnZJOVkD07eH1Sss-W8DB3B4H-zt/view?usp=sharing) 
 - Ask me about anything ! I might not know it, but I will find out for sure!
 - From Melbourne :earth_australia:
 - Avid Motor Bikes and Nature Lover
