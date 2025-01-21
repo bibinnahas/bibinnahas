@@ -1,9 +1,9 @@
 ### Hey there! :wave:
 
-- 9+ years into BigData, Data Engineer & Analytics
+- 13+ years into Platform Engineering, Data Engineering & Analytics
 - Know more about me [here](https://drive.google.com/file/d/1Ejsb6wsC5EN5DK2AAV1jUQ3j79-Co_qw/view?usp=sharing) 
 - Ask me about anything ! I might not know it, but I will find out for sure!
-- From India :earth_asia:
+- From Melbourne :earth_australia:
 - Avid Motor Bikes and Nature Lover
 - Certified Hadoop, Cloud and Kubernetes professional
 ####
